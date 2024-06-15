@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning at Adama Science and Technology University
 - 💞️ I’m looking to collaborate on front end
-- 📫 How to reach me t.me/Feven_E
+- 📫 How to reach me fevaesa82@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Octopus's have 3 hearts
 
