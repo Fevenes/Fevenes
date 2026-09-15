@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Fevenes
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning at Adama Science and Technology University
-- 💞️ I’m looking to collaborate on front end
-- 📫 How to reach me fevaesa82@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Octopus's have 3 hearts
+# 👋 Hi, I'm Feven!
+
+💻 Software Engineering graduate passionate about building web applications.
+🌱 Currently learning and improving my skills in full-stack web development.
+🛠️ Tech I work with:
+- React.js / Next.js
+- Node.js / Express.js
+- MongoDB / SQL
+- Python
+- Git & REST APIs
+💞️ Open to collaborating on web development projects, especially frontend and full-stack projects.
+📫 Reach me: fevaesa82@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: An octopus has three hearts 🐙
 
 <!---
 Fevenes/Fevenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
